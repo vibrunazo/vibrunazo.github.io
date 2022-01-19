@@ -3,13 +3,20 @@ body {
   font-family: sans-serif;
 }
 
+
+a {
+  text-decoration: none;
+  color: rgb(150, 200, 60);
+  }
+
+
 .links {
   display: flex;
   flex-direction: column;
   gap: 16px;
 }
 
-a {
-  text-decoration: none;
-  color: rgb(150, 200, 60);
+.updated {
+  color: rgb(200, 200, 240);
+  margin: 50px;
 }
