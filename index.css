@@ -1,13 +1,17 @@
 body {
   background: rgb(60, 45, 80);
   font-family: sans-serif;
+  color: hsl(240, 20%, 80%)
 }
-
 
 a {
   text-decoration: none;
   color: rgb(150, 200, 60);
-  }
+}
+
+h2 {
+  color: hsl(280, 60%, 70%);
+}
 
 
 .links {
